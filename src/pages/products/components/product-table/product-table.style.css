@@ -1,0 +1,14 @@
+.product-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 390px;
+    border: 1px solid green;
+    margin-top: 10px;
+    
+}
+
+.search-input {
+
+    margin-bottom: 5px;
+
+}
